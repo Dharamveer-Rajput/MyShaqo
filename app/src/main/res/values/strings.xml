@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyShaqo</string>
+
+    <string name="connectionunavailable">Connection Unavailable</string>
+
+    <string name="nointernetcoonection">Uh oh! Check your Internet connection and restart the app.</string>
+
+    <string name="opensettings">OPEN SETTINGS</string>
+
+
+</resources>
